@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,100..900&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+
+}
+a{
+  text-decoration: none;
+}
+body{
+  background: url('./assets/1.jpg') no-repeat;
+  min-height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
